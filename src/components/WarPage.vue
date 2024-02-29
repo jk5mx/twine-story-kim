@@ -1,5 +1,5 @@
 <template>
-    <h1>Aeloria begins fortifying its defenses, training soldiers, and gathering resources for a potential conflict.</h1>
+    <h1>Charlottesville begins fortifying its defenses, training soldiers, and gathering resources for a potential conflict.</h1>
     <n-button v-if="defense === false" strong secondary type="info" @click="prepareDefense">Prepare Defense</n-button>
     <n-button v-if="train === false" strong secondary type="info" @click="trainSoldiers">Train Soldiers</n-button>
     <n-button v-if="resources === false" strong secondary type="info" @click="gatherResources">Gather Resources</n-button>

@@ -1,6 +1,6 @@
 <template>
-    <h1>In another attempt to try and establish peace. The kingdom of Draegor suprsise attacks Charlottesville. <br>
-     Killing every women and blinding every man.</h1>
+    <h1>In another attempt to try and establish peace. The kingdom of Draegor surprise attacks Charlottesville. <br>
+     Draegor wins the battle and takes over Charlottesville</h1>
      <router-link to="/">Play Again....</router-link>
 </template>
 
