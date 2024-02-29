@@ -1,5 +1,5 @@
 <template>
-    <h1>In a herioic battle. Charlottesville losses all of her men and the kingdom goes into 100 years of slavery</h1>
+    <h1>In a herioic battle. Charlottesville losses 50% of her soldiers but wins the war!</h1>
     <H1>THE END</H1>
     <router-link to="/">Play Again....</router-link>
 </template>

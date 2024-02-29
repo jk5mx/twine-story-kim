@@ -4,7 +4,7 @@
     The kingdom, known for its lush landscapes and prosperous people, enjoys an era of peace and prosperity.</p>
     <h1>HOWEVER</h1>
     <p>News arrives that the neighboring kingdom of Draegor, ruled by the ambitious King Varick, threatens war over a disputed territory rich in resources. <br> 
-    The threat puts the realm in danger, causing unrest among the people of Aeloria.</p>
+    The threat puts the realm in danger, causing unrest among the people of Charlottesville.</p>
     <router-link to="/diplomacy" style="display: block; margin-bottom: 10px; text-decoration: none; color: #007BFF;">Choose Diplomacy</router-link>
     <router-link to="/war" style="display: block; text-decoration: none; color: #007BFF;">Choose War</router-link>
 </template>
